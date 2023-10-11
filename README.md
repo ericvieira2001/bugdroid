@@ -1,4 +1,4 @@
 # site
- bugdroid
+ BUGDROID
 
-<a href="https://ericvieira2001.github.io/bugdroid/projeto/index.html">bugdroid</a>
+<a href="https://ericvieira2001.github.io/bugdroid/projeto/index.html">BUGDROID</a>
